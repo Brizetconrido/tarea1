@@ -1,0 +1,54 @@
+body{
+    background-color:aliceblue
+}
+ .titulo{
+    color:blue;
+    margin-top: 5pc;
+    text-align: justify;
+    font-size: 3pc;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.comentarios{
+    font-family: arial;
+    font-size: 12px;
+    text-align: justify;
+}
+
+#fondo{
+    background-color: white;
+    margin: 15px 15px  15px 15px;
+    padding: 8px;
+}
+#fondoespecial{
+    background-color: blue;
+    padding: 8px;
+}
+.button{
+    color: mintcream;
+    margin: 15px 15px  15px 15px;
+    
+}
+#cuenta{
+    background-color: rgb(54, 173, 88);
+    margin: 15px 15px 15px 65px ;
+    padding: 10px;
+}
+.crear{
+    color:snow
+}
+#Correoelectronicoonumerodetelefono{
+    margin: 15px;
+}
+#contraseña{
+    margin:  15px;
+}
+
+.borde{
+    background-color: aquamarine;
+   max-width: 300px;
+   border: solid 1px black;
+   box-shadow: 5px 5px 5px 5px ;
+   
+
+}
